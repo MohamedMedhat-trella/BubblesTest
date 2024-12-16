@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BubblesTest</string>
+    <string name="title_activity_bubble">BubbleActivity</string>
+</resources>
